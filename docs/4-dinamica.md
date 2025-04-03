@@ -1,15 +1,27 @@
 ### Dinâmica
 
-- Quais os elementos de atenção e envolvimento na história?
-    - Atenção – Interesse imediato.
-    - Envolvimento – Interesse de longo prazo.
+- Quais os elementos de atenção e envolvimento no jogo?
+    - Atenção – Interesse imediato que pode ser agarrado.
+        - Terminar os níveis  
+        - Ver a história  
+        
+    - Envolvimento – Interesse de longo prazo que deve ser mantido.
+        - Terminar os níveis sem levar dano
+		- Terminar os níveis sem levar dano ou usar bombas
+		- Ter o maior High Score
 
 - Quais os tipos de decisões do seu jogador? 
     - Ex: Discernível; Integrado; Ambíguo; Dois gumes; Novela
     - Onde e como eles acontecem
 
 - Guiando o Jogador:
-    - Quais os elementos de orientação direta?
-        - Onde e como eles acontecem
+    - Quais os elementos de orientação direta?  
+       - Pop-up ensinando os controles básicos   
+            - WASD para movimentação  
+            - Espaço para Atirar  
+            - E para modo slow-motion  
+            - Q para usar uma bomba  
     - Quais os elementos de orientação indireta?
-        - Onde e como eles acontecem
+        - Aparece inimigos que começam a atirar  
+            - Ensina que as entidades exceto o jogador são hostís  
+            - Quando um deles morre, dropa um powerup que parcialmente preenche sua barra correspondente; Ensinando que inimigos são fonte de powerups.  
