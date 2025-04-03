@@ -3,5 +3,5 @@
     O tipo do jogo será Bullet Hell, marcado por alta dificuldade e precisão dos controles.   
     Exemplos seriam a série Touhou, Enter the Gungeon e Vampire Survivors.  
 - Que tipo de experiência você quer dar para o seu jogador?  
-  A experiência seria de um jogo difícil que depende muito da habilidade do jogador; Mecânicas claras e precisas, com desafios balanceados
+  A experiência seria de um jogo difícil que depende muito da habilidade do jogador; Mecânicas claras e precisas, com desafios balanceados no entendimento destas
     
