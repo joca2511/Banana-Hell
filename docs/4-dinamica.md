@@ -24,4 +24,23 @@
     - Quais os elementos de orientação indireta?
         - Aparece inimigos que começam a atirar  
             - Ensina que as entidades exceto o jogador são hostís  
-            - Quando um deles morre, dropa um powerup que parcialmente preenche sua barra correspondente; Ensinando que inimigos são fonte de powerups.  
+            - Quando um deles morre, dropa um powerup que parcialmente preenche sua barra correspondente; Ensinando que inimigos são fonte de powerups.
+- Explore as respostas emocionais desejáveis evocadas no jogador quando ele interage com o sistema do seu jogo.
+    
+  - Felicidade
+        
+    - Adquirir powerups
+      - Eliminar inimigos/chefões
+        - Alcançar um novo high score
+        
+    - Frustração
+        
+      - Perder powerups
+      - Perder vidas 
+      - Não alcançar um novo high score
+        
+    - Nervosismo
+        
+      - Estar na última vida
+      - Estar sem bombas
+        
