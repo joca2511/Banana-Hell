@@ -7,13 +7,13 @@
         
     - Envolvimento – Interesse de longo prazo que deve ser mantido.
         - Terminar os níveis sem levar dano
-		- Terminar os níveis sem levar dano ou usar bombas
-		- Ter o maior High Score
+	- Terminar os níveis sem levar dano ou usar bombas
+	- Ter o maior High Score
 
 - Quais os tipos de decisões do seu jogador? 
-    - Ex: Discernível; Integrado; Ambíguo; Dois gumes; Novela
-    - Onde e como eles acontecem
-
+    - Discernível - Desviar de projéteis e coletar power-ups
+    - Integrado - Mudar equipamento/usar bombas
+    - Dois gumes - Escolha de lutar contra chefões de forma mais difícil, em troca de uma maior quantidade de pontos
 - Guiando o Jogador:
     - Quais os elementos de orientação direta?  
        - Pop-up ensinando os controles básicos   
