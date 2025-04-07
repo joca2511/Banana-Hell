@@ -10,7 +10,7 @@ Lvl 3
 ![image](https://github.com/user-attachments/assets/f65c10af-964c-4336-906b-6dbedcbe60cb)  
 Inimigos podem soltar power-ups quando morrem  
 ![image](https://github.com/user-attachments/assets/4fe8024f-a800-4ac7-af9c-485ee777fc3c)  
-Inimigos podem soltar power-ups quando morrem  
+Bombas deletam projéteis inimigos    
 ![image](https://github.com/user-attachments/assets/ad177378-c480-4840-901d-9140f1477bb8)  
 Pegar powerups aumenta o poder das armas do jogador  
 ![image](https://github.com/user-attachments/assets/e567d23d-80da-441a-a640-6ab2e4e8566e)  
