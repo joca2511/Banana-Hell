@@ -1,10 +1,40 @@
 ### Prefabs
-- Nome
-- Descrição
-- Quando são utilizados
+- Nome: Banana
+- Descrição: Representação do jogador. Bem amarela, e bem madura
+- Quando são utilizados: Todo nível
+- Quais seus componentes:
+    - Sprites: 
+    - Colisores:
+    - Fontes de audio:
+    - Scripts:
+        - Movimentação omnidirecional 2D por teclas
+        - Teclas para ativar efeitos especiais, como slow-motion, utilizar bombas e atirar
+
+- Nome: Inimigo (Corpo a corpo)
+- Descrição: Representação do inimigo mais comum. Apenas danificam o jogador por contato com sua própria colisão
+- Quando são utilizados: Todo nível
 - Quais seus componentes
-    - Sprites
-    - Colisores
-    - Fontes de audio
+    - Sprites:
+    - Colisores:
+    - Fontes de audio:
+    - Scripts:
+        - !!A FAZER!!
+
+- Nome: Inimigo (Armado)
+- Descrição: Representação de um inimigo raro. Danificam o jogador com projéteis e por contato com sua própria colisão
+- Quando são utilizados: Todo nível
+- Quais seus componentes:
+    - Sprites:
+    - Colisores:
+    - Fontes de audio:
+    - Scripts:
+        - !!A FAZER!!
+- Nome: Chefão
+- Descrição: Representação de chefes de fim-de-fase. Danificam o jogador com projéteis e por contato com sua própria colisão
+- Quando são utilizados: No final de cada nível
+- Quais seus componentes:
+    - Sprites:
+    - Colisores:
+    - Fontes de audio:
     - Scripts
-        - descreva o comportamento dos scripts
+        - !!A FAZER!!
