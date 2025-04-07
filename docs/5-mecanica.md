@@ -41,7 +41,7 @@
     
   - Powerup - Aumenta a velocidade do jogador. Quando chega a certa quantidade, melhora a arma equipada.
   - Projétil - Causa dano contra entidades de grupos opostos (Jogador vs. IA), são codificados por cor (Azul = Jogador, Vermelho = Inimigo).
-  - Inimigos - Seguem uma rota fixa e atiram em momentos fixos, entrar em contato com eles deve causar dano. Quando morrem, tem chance de aparecer um powerup em seu lugar.
+  - Inimigos - Aparecem em intervalos ao redor do jogador, entrar em contato com eles deve causar dano. Quando morrem, tem chance de aparecer um powerup em seu lugar.
   - Banana - Personagem que o jogador controla, possui armas diferentes, bombas e a habilidade de colocar o jogo em slow-motion.
   - Armas - O jogador consegue desbloquear armas ao longo dos níveis, e as trocar quando voltar ao menu principal.
         
