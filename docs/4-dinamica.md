@@ -27,11 +27,11 @@
             - Quando um deles morre, dropa um powerup que parcialmente preenche sua barra correspondente; Ensinando que inimigos são fonte de powerups.
 - Explore as respostas emocionais desejáveis evocadas no jogador quando ele interage com o sistema do seu jogo.
     
-  - Felicidade
+    - Felicidade
         
-    - Adquirir powerups
+      - Adquirir powerups
       - Eliminar inimigos/chefões
-        - Alcançar um novo high score
+      - Alcançar um novo high score
         
     - Frustração
         
