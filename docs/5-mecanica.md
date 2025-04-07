@@ -26,6 +26,7 @@
     - Incrementais:
         
         - Aumento de velocidade ao adquirir powerups
+        - Aumento de poder ao encher a barra de powerup
         - Encher o arsenal de armas
             
         
