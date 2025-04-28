@@ -1,10 +1,10 @@
 ### Introdução
-O tipo do jogo será Bullet Hell, marcado por alta dificuldade e precisão dos controles.  
+O tipo do jogo será Bullet Hell e roguelike, marcado por alta dificuldade e precisão dos controles.  
 
 Exemplos seriam a série Touhou, Enter the Gungeon e Vampire Survivors.  
 
 
-O Loop Principal consistirá de níveis lineares com inimigos aparecendo no topo e lados da tela, atirando projéteis pela tela, com o final de cada nível tendo um chefão com diálogo.
+O Loop Principal consistirá de níveis estáticos com inimigos aparecendo perto do jogador, com alguns atirando projéteis pela tela, com o final de cada nível tendo um chefão com diálogo.
 
 Os atores seriam o jogador, inimigo e chefe; Todos sendo capazes de atirar projéteis.
 
@@ -15,3 +15,5 @@ Os elementos que compõem a mecânica do jogo serão:
 - Modo Slow-Motion (Usado para ajudar o jogador a desviar dos projéteis)
 
 - Armas para o jogador (Diferentes formas do jogador atirar)
+  
+- Powerups que o jogador adquire (Diferentes melhorias que o jogador adquire) 
