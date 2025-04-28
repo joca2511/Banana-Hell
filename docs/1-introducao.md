@@ -15,5 +15,7 @@ Os elementos que compõem a mecânica do jogo serão:
 - Modo Slow-Motion (Usado para ajudar o jogador a desviar dos projéteis)
 
 - Armas para o jogador (Diferentes formas do jogador atirar)
+
+- Níveis de personagem (Ao derrotar inimigos, o jogador adquire xp, e quando aumenta de nível pode escolher entre powerups)
   
 - Powerups que o jogador adquire (Diferentes melhorias que o jogador adquire) 
